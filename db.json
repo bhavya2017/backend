@@ -1,0 +1,422 @@
+{
+  
+  "WomensData":[
+    
+    {
+        "id": "W28",
+        "category": "Womens",
+        "subCategory": "Trouser",
+         "brand": "HERE&NOW",
+        "title": "Women Trousers",
+        "offerPrice": 671,
+        "originalPrice": 1599,
+        "discount": "58%",
+        "quantity": 32,
+        "images": [
+            "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/10/11/f3b7eb35-ea09-4bd6-b0e7-9de4157b14bd1602370012077-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/10/11/f3b7eb35-ea09-4bd6-b0e7-9de4157b14bd1602370012077-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.8,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/10/11/f3b7eb35-ea09-4bd6-b0e7-9de4157b14bd1602370012077-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/10/11/f3b7eb35-ea09-4bd6-b0e7-9de4157b14bd1602370012077-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/10/11/f3b7eb35-ea09-4bd6-b0e7-9de4157b14bd1602370012077-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.4,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/10/11/f3b7eb35-ea09-4bd6-b0e7-9de4157b14bd1602370012077-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.6,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/10/11/f3b7eb35-ea09-4bd6-b0e7-9de4157b14bd1602370012077-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.8,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/10/11/f3b7eb35-ea09-4bd6-b0e7-9de4157b14bd1602370012077-1.jpg"
+        ],
+        "size": [
+            "26",
+            "28",
+            "30",
+            "32",
+            "34",
+            "36"
+        ],
+        "rating": 4,
+        "ratingCount": "3.8k"
+    },
+    
+   
+    {
+        "id": "W33",
+        "category": "Womens",
+        "subCategory": "WesternDress",
+        "brand": "Berrylush",
+        "title": "Floral Ruched Dress",
+        "offerPrice": 896,
+        "originalPrice": 2299,
+        "discount": "61%",
+        "quantity": 36,
+        "images": [
+            "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15583258/2021/10/12/1d13b8e6-2c23-4b9c-a45a-508f368f049e1634036755097-Berrylush-Women-Red-Ditsy-Floral-Tie-Shoulder-Ruched-Dress-5-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15583258/2021/10/12/1d13b8e6-2c23-4b9c-a45a-508f368f049e1634036755097-Berrylush-Women-Red-Ditsy-Floral-Tie-Shoulder-Ruched-Dress-5-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.8,q_60,w_210,c_limit,fl_progressive/assets/images/15583258/2021/10/12/1d13b8e6-2c23-4b9c-a45a-508f368f049e1634036755097-Berrylush-Women-Red-Ditsy-Floral-Tie-Shoulder-Ruched-Dress-5-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/15583258/2021/10/12/1d13b8e6-2c23-4b9c-a45a-508f368f049e1634036755097-Berrylush-Women-Red-Ditsy-Floral-Tie-Shoulder-Ruched-Dress-5-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.2,q_60,w_210,c_limit,fl_progressive/assets/images/15583258/2021/10/12/1d13b8e6-2c23-4b9c-a45a-508f368f049e1634036755097-Berrylush-Women-Red-Ditsy-Floral-Tie-Shoulder-Ruched-Dress-5-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.4,q_60,w_210,c_limit,fl_progressive/assets/images/15583258/2021/10/12/1d13b8e6-2c23-4b9c-a45a-508f368f049e1634036755097-Berrylush-Women-Red-Ditsy-Floral-Tie-Shoulder-Ruched-Dress-5-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.6,q_60,w_210,c_limit,fl_progressive/assets/images/15583258/2021/10/12/1d13b8e6-2c23-4b9c-a45a-508f368f049e1634036755097-Berrylush-Women-Red-Ditsy-Floral-Tie-Shoulder-Ruched-Dress-5-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.8,q_60,w_210,c_limit,fl_progressive/assets/images/15583258/2021/10/12/1d13b8e6-2c23-4b9c-a45a-508f368f049e1634036755097-Berrylush-Women-Red-Ditsy-Floral-Tie-Shoulder-Ruched-Dress-5-1.jpg"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "rating": 4.2,
+        "ratingCount": "761"
+    },
+   
+    {
+        "id": "W64",
+        "category": "Womens",
+        "subCategory": "Jeans",
+        "brand": "Kotty",
+        "title": "Women Flared Jeans",
+        "offerPrice": 639,
+        "originalPrice": 1999,
+        "discount": "68%",
+        "quantity": 16,
+        "images": [
+            "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.8,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.4,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.6,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.8,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg"
+        ],
+        "size": [
+            "26",
+            "28",
+            "30",
+            "32",
+            "34"
+        ],
+        "rating": 4.1,
+        "ratingCount": "3.3k"
+    },
+    {
+        "id": "W36",
+        "category": "Womens",
+        "subCategory": "WesternDress",
+        "brand": "Chemistry",
+        "title": "Women Solid Parka",
+        "offerPrice": 2999,
+        "originalPrice": 5999,
+        "discount": "50%",
+        "quantity": 45,
+        "images": [
+            "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/5709433/2018/9/6/f8edfec2-d665-4dec-8bd0-1c549d9b2c051536228338868-Chemistry-Women-Brown-Solid-Parka-7841536228337271-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/5709433/2018/9/6/f8edfec2-d665-4dec-8bd0-1c549d9b2c051536228338868-Chemistry-Women-Brown-Solid-Parka-7841536228337271-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.8,q_60,w_210,c_limit,fl_progressive/assets/images/5709433/2018/9/6/f8edfec2-d665-4dec-8bd0-1c549d9b2c051536228338868-Chemistry-Women-Brown-Solid-Parka-7841536228337271-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/5709433/2018/9/6/f8edfec2-d665-4dec-8bd0-1c549d9b2c051536228338868-Chemistry-Women-Brown-Solid-Parka-7841536228337271-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.2,q_60,w_210,c_limit,fl_progressive/assets/images/5709433/2018/9/6/f8edfec2-d665-4dec-8bd0-1c549d9b2c051536228338868-Chemistry-Women-Brown-Solid-Parka-7841536228337271-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.4,q_60,w_210,c_limit,fl_progressive/assets/images/5709433/2018/9/6/f8edfec2-d665-4dec-8bd0-1c549d9b2c051536228338868-Chemistry-Women-Brown-Solid-Parka-7841536228337271-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.6,q_60,w_210,c_limit,fl_progressive/assets/images/5709433/2018/9/6/f8edfec2-d665-4dec-8bd0-1c549d9b2c051536228338868-Chemistry-Women-Brown-Solid-Parka-7841536228337271-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.8,q_60,w_210,c_limit,fl_progressive/assets/images/5709433/2018/9/6/f8edfec2-d665-4dec-8bd0-1c549d9b2c051536228338868-Chemistry-Women-Brown-Solid-Parka-7841536228337271-1.jpg"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "rating": 4.4,
+        "ratingCount": "453"
+    },
+    {
+        "id": "W37",
+        "category": "Womens",
+        "subCategory": "Jeans",
+        "brand": "SASSAFRAS",
+        "title": "Women Relaxed Fit Jeans",
+        "offerPrice": 739,
+        "originalPrice": 1999,
+        "discount": "63%",
+        "quantity": 36,
+        "images": [
+            "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/13000352/2022/4/21/c083046e-9f2e-46bc-aedc-9ac56533d1001650517608723SASSAFRASWomenBluePureCottonRelaxedFitHigh-RiseCleanLookCrop1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13000352/2022/4/21/c083046e-9f2e-46bc-aedc-9ac56533d1001650517608723SASSAFRASWomenBluePureCottonRelaxedFitHigh-RiseCleanLookCrop1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.8,q_60,w_210,c_limit,fl_progressive/assets/images/13000352/2022/4/21/c083046e-9f2e-46bc-aedc-9ac56533d1001650517608723SASSAFRASWomenBluePureCottonRelaxedFitHigh-RiseCleanLookCrop1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/13000352/2022/4/21/c083046e-9f2e-46bc-aedc-9ac56533d1001650517608723SASSAFRASWomenBluePureCottonRelaxedFitHigh-RiseCleanLookCrop1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.2,q_60,w_210,c_limit,fl_progressive/assets/images/13000352/2022/4/21/c083046e-9f2e-46bc-aedc-9ac56533d1001650517608723SASSAFRASWomenBluePureCottonRelaxedFitHigh-RiseCleanLookCrop1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.4,q_60,w_210,c_limit,fl_progressive/assets/images/13000352/2022/4/21/c083046e-9f2e-46bc-aedc-9ac56533d1001650517608723SASSAFRASWomenBluePureCottonRelaxedFitHigh-RiseCleanLookCrop1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.6,q_60,w_210,c_limit,fl_progressive/assets/images/13000352/2022/4/21/c083046e-9f2e-46bc-aedc-9ac56533d1001650517608723SASSAFRASWomenBluePureCottonRelaxedFitHigh-RiseCleanLookCrop1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.8,q_60,w_210,c_limit,fl_progressive/assets/images/13000352/2022/4/21/c083046e-9f2e-46bc-aedc-9ac56533d1001650517608723SASSAFRASWomenBluePureCottonRelaxedFitHigh-RiseCleanLookCrop1.jpg"
+        ],
+        "size": [
+            "26",
+            "28",
+            "30",
+            "32",
+            "34",
+            "36"
+        ],
+        "rating": 4.2,
+        "ratingCount": "6.9k"
+    },
+   
+    {
+        "id": "W43",
+        "category": "Womens",
+        "subCategory": "Tshirt",
+        "brand": "Roadster",
+        "title": "Pure Cotton T-shirt",
+        "offerPrice": 179,
+        "originalPrice": 599,
+        "discount": "70%",
+        "quantity": 36,
+        "images": [
+            "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/2312468/2018/2/21/11519195992929-Roadster-Women-Maroon-Solid-Round-Neck-T-shirt-7951519195992737-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2312468/2018/2/21/11519195992929-Roadster-Women-Maroon-Solid-Round-Neck-T-shirt-7951519195992737-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.8,q_60,w_210,c_limit,fl_progressive/assets/images/2312468/2018/2/21/11519195992929-Roadster-Women-Maroon-Solid-Round-Neck-T-shirt-7951519195992737-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/2312468/2018/2/21/11519195992929-Roadster-Women-Maroon-Solid-Round-Neck-T-shirt-7951519195992737-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.2,q_60,w_210,c_limit,fl_progressive/assets/images/2312468/2018/2/21/11519195992929-Roadster-Women-Maroon-Solid-Round-Neck-T-shirt-7951519195992737-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.4,q_60,w_210,c_limit,fl_progressive/assets/images/2312468/2018/2/21/11519195992929-Roadster-Women-Maroon-Solid-Round-Neck-T-shirt-7951519195992737-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.6,q_60,w_210,c_limit,fl_progressive/assets/images/2312468/2018/2/21/11519195992929-Roadster-Women-Maroon-Solid-Round-Neck-T-shirt-7951519195992737-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.8,q_60,w_210,c_limit,fl_progressive/assets/images/2312468/2018/2/21/11519195992929-Roadster-Women-Maroon-Solid-Round-Neck-T-shirt-7951519195992737-1.jpg"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "rating": 4.2,
+        "ratingCount": "10.7k"
+    },
+
+    {
+        "id": "W46",
+        "category": "Womens",
+        "subCategory": "Jacket",
+        "brand": "Roadster",
+        "title": "Washed Denim Trucker Jacket",
+        "offerPrice": 799,
+        "originalPrice": 1599,
+        "discount": "50%",
+        "quantity": 16,
+        "images": [
+            "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/12279416/2020/10/23/81c941d5-3bd0-48fa-835a-632353235fc51603434085601-Roadster-Women-Jackets-4691603434083309-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/12279416/2020/10/23/81c941d5-3bd0-48fa-835a-632353235fc51603434085601-Roadster-Women-Jackets-4691603434083309-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.8,q_60,w_210,c_limit,fl_progressive/assets/images/12279416/2020/10/23/81c941d5-3bd0-48fa-835a-632353235fc51603434085601-Roadster-Women-Jackets-4691603434083309-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/12279416/2020/10/23/81c941d5-3bd0-48fa-835a-632353235fc51603434085601-Roadster-Women-Jackets-4691603434083309-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.2,q_60,w_210,c_limit,fl_progressive/assets/images/12279416/2020/10/23/81c941d5-3bd0-48fa-835a-632353235fc51603434085601-Roadster-Women-Jackets-4691603434083309-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.4,q_60,w_210,c_limit,fl_progressive/assets/images/12279416/2020/10/23/81c941d5-3bd0-48fa-835a-632353235fc51603434085601-Roadster-Women-Jackets-4691603434083309-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.6,q_60,w_210,c_limit,fl_progressive/assets/images/12279416/2020/10/23/81c941d5-3bd0-48fa-835a-632353235fc51603434085601-Roadster-Women-Jackets-4691603434083309-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.8,q_60,w_210,c_limit,fl_progressive/assets/images/12279416/2020/10/23/81c941d5-3bd0-48fa-835a-632353235fc51603434085601-Roadster-Women-Jackets-4691603434083309-1.jpg"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "rating": 4.5,
+        "ratingCount": "1k"
+    },
+    {
+        "id": "W64",
+        "category": "Womens",
+        "subCategory": "Jeans",
+        "brand": "Kotty",
+        "title": "Women Flared Jeans",
+        "offerPrice": 639,
+        "originalPrice": 1999,
+        "discount": "68%",
+        "quantity": 16,
+        "images": [
+            "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.8,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.4,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.6,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.8,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg"
+        ],
+        "size": [
+            "26",
+            "28",
+            "30",
+            "32",
+            "34"
+        ],
+        "rating": 4.1,
+        "ratingCount": "3.3k"
+    },
+    {
+        "id": "W55",
+        "category": "Womens",
+        "subCategory": "SweatShirt",
+        "brand": "Tokyo Talkies",
+        "title": "Women Printed Sweatshirt",
+        "offerPrice": 284,
+        "originalPrice": 1499,
+        "discount": "81%",
+        "quantity": 4,
+        "images": [
+            "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/10955012/2020/11/18/0b1d61ff-ccff-44ad-b8ee-e9925f04e2f51605695923643TokyoTalkiesWomenBlackGold-TonedPrintedCamouflageSequinnedSw1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10955012/2020/11/18/0b1d61ff-ccff-44ad-b8ee-e9925f04e2f51605695923643TokyoTalkiesWomenBlackGold-TonedPrintedCamouflageSequinnedSw1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.8,q_60,w_210,c_limit,fl_progressive/assets/images/10955012/2020/11/18/0b1d61ff-ccff-44ad-b8ee-e9925f04e2f51605695923643TokyoTalkiesWomenBlackGold-TonedPrintedCamouflageSequinnedSw1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/10955012/2020/11/18/0b1d61ff-ccff-44ad-b8ee-e9925f04e2f51605695923643TokyoTalkiesWomenBlackGold-TonedPrintedCamouflageSequinnedSw1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.2,q_60,w_210,c_limit,fl_progressive/assets/images/10955012/2020/11/18/0b1d61ff-ccff-44ad-b8ee-e9925f04e2f51605695923643TokyoTalkiesWomenBlackGold-TonedPrintedCamouflageSequinnedSw1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.4,q_60,w_210,c_limit,fl_progressive/assets/images/10955012/2020/11/18/0b1d61ff-ccff-44ad-b8ee-e9925f04e2f51605695923643TokyoTalkiesWomenBlackGold-TonedPrintedCamouflageSequinnedSw1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.6,q_60,w_210,c_limit,fl_progressive/assets/images/10955012/2020/11/18/0b1d61ff-ccff-44ad-b8ee-e9925f04e2f51605695923643TokyoTalkiesWomenBlackGold-TonedPrintedCamouflageSequinnedSw1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.8,q_60,w_210,c_limit,fl_progressive/assets/images/10955012/2020/11/18/0b1d61ff-ccff-44ad-b8ee-e9925f04e2f51605695923643TokyoTalkiesWomenBlackGold-TonedPrintedCamouflageSequinnedSw1.jpg"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "rating": 4.4,
+        "ratingCount": "672"
+    },
+    {
+        "id": "W56",
+        "category": "Womens",
+        "subCategory": "Trouser",
+        "brand": "ADDYVERO",
+        "title": "Women High-Rise Trousers",
+        "offerPrice": 543,
+        "originalPrice": 1699,
+        "discount": "68%",
+        "quantity": 38,
+        "images": [
+            "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/19040144/2022/8/17/fe31ed52-9eda-4123-a704-dc39e0bad6011660707701748ADDYVEROWomenBlackHigh-RiseEasyWashTrousers1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19040144/2022/8/17/fe31ed52-9eda-4123-a704-dc39e0bad6011660707701748ADDYVEROWomenBlackHigh-RiseEasyWashTrousers1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.8,q_60,w_210,c_limit,fl_progressive/assets/images/19040144/2022/8/17/fe31ed52-9eda-4123-a704-dc39e0bad6011660707701748ADDYVEROWomenBlackHigh-RiseEasyWashTrousers1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/19040144/2022/8/17/fe31ed52-9eda-4123-a704-dc39e0bad6011660707701748ADDYVEROWomenBlackHigh-RiseEasyWashTrousers1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.2,q_60,w_210,c_limit,fl_progressive/assets/images/19040144/2022/8/17/fe31ed52-9eda-4123-a704-dc39e0bad6011660707701748ADDYVEROWomenBlackHigh-RiseEasyWashTrousers1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.4,q_60,w_210,c_limit,fl_progressive/assets/images/19040144/2022/8/17/fe31ed52-9eda-4123-a704-dc39e0bad6011660707701748ADDYVEROWomenBlackHigh-RiseEasyWashTrousers1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.6,q_60,w_210,c_limit,fl_progressive/assets/images/19040144/2022/8/17/fe31ed52-9eda-4123-a704-dc39e0bad6011660707701748ADDYVEROWomenBlackHigh-RiseEasyWashTrousers1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.8,q_60,w_210,c_limit,fl_progressive/assets/images/19040144/2022/8/17/fe31ed52-9eda-4123-a704-dc39e0bad6011660707701748ADDYVEROWomenBlackHigh-RiseEasyWashTrousers1.jpg"
+        ],
+        "size": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36"
+        ],
+        "rating": 4.3,
+        "ratingCount": "650"
+    },
+   
+    
+    {
+        "id": "W62",
+        "category": "Womens",
+        "subCategory": "Tshirt",
+        "brand": "Difference of Opinion",
+        "title": "Printed Cotton T-shirt",
+        "offerPrice": 475,
+        "originalPrice": 1399,
+        "discount": "66%",
+        "quantity": 20,
+        "images": [
+            "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15599320/2022/4/28/c06a6b1a-4e0b-43ed-ad2e-394b588a0d8b1651144480179-Difference-of-Opinion-Women-Black-Conversational-Printed-Pur-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15599320/2022/4/28/c06a6b1a-4e0b-43ed-ad2e-394b588a0d8b1651144480179-Difference-of-Opinion-Women-Black-Conversational-Printed-Pur-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.8,q_60,w_210,c_limit,fl_progressive/assets/images/15599320/2022/4/28/c06a6b1a-4e0b-43ed-ad2e-394b588a0d8b1651144480179-Difference-of-Opinion-Women-Black-Conversational-Printed-Pur-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/15599320/2022/4/28/c06a6b1a-4e0b-43ed-ad2e-394b588a0d8b1651144480179-Difference-of-Opinion-Women-Black-Conversational-Printed-Pur-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.2,q_60,w_210,c_limit,fl_progressive/assets/images/15599320/2022/4/28/c06a6b1a-4e0b-43ed-ad2e-394b588a0d8b1651144480179-Difference-of-Opinion-Women-Black-Conversational-Printed-Pur-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.4,q_60,w_210,c_limit,fl_progressive/assets/images/15599320/2022/4/28/c06a6b1a-4e0b-43ed-ad2e-394b588a0d8b1651144480179-Difference-of-Opinion-Women-Black-Conversational-Printed-Pur-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.6,q_60,w_210,c_limit,fl_progressive/assets/images/15599320/2022/4/28/c06a6b1a-4e0b-43ed-ad2e-394b588a0d8b1651144480179-Difference-of-Opinion-Women-Black-Conversational-Printed-Pur-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.8,q_60,w_210,c_limit,fl_progressive/assets/images/15599320/2022/4/28/c06a6b1a-4e0b-43ed-ad2e-394b588a0d8b1651144480179-Difference-of-Opinion-Women-Black-Conversational-Printed-Pur-1.jpg"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "rating": 4.3,
+        "ratingCount": "407"
+    },
+    {
+        "id": "W63",
+        "category": "Womens",
+        "subCategory": "Trouser",
+         "brand": "Jack & Jones",
+        "title": "Cigarette trousers",
+        "offerPrice": 899,
+        "originalPrice": 1499,
+        "discount": "50%",
+        "quantity": 36,
+        "images": [
+            "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/8/11/77b35c02-855a-451a-8167-efda7e7351d21565468587932-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/8/11/77b35c02-855a-451a-8167-efda7e7351d21565468587932-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.8,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/8/11/77b35c02-855a-451a-8167-efda7e7351d21565468587932-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/8/11/77b35c02-855a-451a-8167-efda7e7351d21565468587932-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/8/11/77b35c02-855a-451a-8167-efda7e7351d21565468587932-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.4,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/8/11/77b35c02-855a-451a-8167-efda7e7351d21565468587932-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.6,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/8/11/77b35c02-855a-451a-8167-efda7e7351d21565468587932-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.8,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/8/11/77b35c02-855a-451a-8167-efda7e7351d21565468587932-1.jpg"
+        ],
+        "size": [
+            "23",
+            "25",
+            "27",
+            "28",
+            "30",
+            "31",
+            "33",
+            "34"
+        ],
+        "rating": 4.5,
+        "ratingCount": "1.6k"
+    },
+    {
+        "id": "W64",
+        "category": "Womens",
+        "subCategory": "Jeans",
+        "brand": "Kotty",
+        "title": "Women Flared Jeans",
+        "offerPrice": 639,
+        "originalPrice": 1999,
+        "discount": "68%",
+        "quantity": 16,
+        "images": [
+            "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_1.8,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.4,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.6,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg",
+            "https://assets.myntassets.com/f_webp,dpr_2.8,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/15/98e4cd89-4c1a-40ed-a659-645f5c2d3f801608051833514-1.jpg"
+        ],
+        "size": [
+            "26",
+            "28",
+            "30",
+            "32",
+            "34"
+        ],
+        "rating": 4.1,
+        "ratingCount": "3.3k"
+    }
+    
+  ],
+  
+    "WishList": [],
+  
+    "cart": [],
+  
+    "orders": [
+      {
+        "cartItems": [],
+        "user": "userId",
+        "status": "pending",
+        "date": "date"
+      }
+    ]
+  }
+  
